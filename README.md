@@ -2,11 +2,13 @@ COMPUTER SCIENCE 1 FINAL PROJECT: Gettin’ to a Street Fight
 <br>
 By Kalie Chang and Grace Mun
 
-Gettin’ to a Street Fight is a highly realistic fighting game where the player needs to start at the beginning of the fighter’s day and go through their day to day life before finding the opponent that they will have a street fight with. This game is based off of a scene from Rick and Morty.
+Gettin’ to a Street Fight is a highly realistic fighting game where the player needs to start at the beginning of the fighter’s day and go through their day to day life before finding the opponent that they will have a street fight with. This game is based off of a scene from Rick and Morty. 
 
 (Click to view inspiration video)
 https://www.youtube.com/watch?v=XWgDCpn-eAg
 
+<br>
+We were given 1.5 weeks to work on this project. The Computer Science 1 course was taught in 3.5 weeks.
 Installation 
 <br>
 Download the final project zip file that contains all the .java files, the images, and the other files. Please adjust the code that reads the images with the proper location on your computer in order to have all the images run properly on your computer. The images are located in the following classes:
