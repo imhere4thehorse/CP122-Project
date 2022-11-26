@@ -1,4 +1,5 @@
 CP122 FINAL PROJECT: Gettin’ to a Street Fight
+<br>
 By Kalie Chang and Grace Mun
 
 Gettin’ to a Street Fight is a highly realistic fighting game where the player needs to start at the beginning of the fighter’s day and go through their day to day life before finding the opponent that they will have a street fight with. This game is based off of a scene from Rick and Morty 
