@@ -10,17 +10,29 @@ https://www.youtube.com/watch?v=XWgDCpn-eAg
 Installation 
 <br>
 Download the final project zip file that contains all the .java files, the images, and the other files. Please adjust the code that reads the images with the proper location on your computer in order to have all the images run properly on your computer. The images are located in the following classes:
+<br>
 GamePanel.java
+<br>
 GamePanel2.java
+<br>
 Lose.java
+<br>
 MainMenu.java
+<br>
 Player.java
+<br>
 Player2.java
+<br>
 PlayerFight.java
+<br>
 TileManager.java
+<br>
 TileManagerFight.java
+<br>
 Tiles2.java
+<br>
 Win.java
+<br>
 
 To run the game, please go to your terminal, find the proper folder the game is in, and type javac *.java to compile the game. This will compile all the classes within the game. To run the game, type in java Menu.java. (Menu is where the main is).
 
