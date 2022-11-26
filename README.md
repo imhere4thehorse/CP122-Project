@@ -4,9 +4,6 @@ By Kalie Chang and Grace Mun
 
 Gettin’ to a Street Fight is a highly realistic fighting game where the player needs to start at the beginning of the fighter’s day and go through their day to day life before finding the opponent that they will have a street fight with. This game is based off of a scene from Rick and Morty.
 
-<br>
-This game was created with Java. We also utilized Atom.
-
 (Click to view inspiration video)
 https://www.youtube.com/watch?v=XWgDCpn-eAg
 
@@ -62,3 +59,5 @@ PROJECT REQUIREMENTS
 4) An interactive GUI allows user interaction
 5) Our custom extension includes the object collision and the use of threads in GamePanel.java, GamePanel2.java, and enemyPanel.java, which goes beyond what we have learned in class.
 
+<br>
+This game utilized Atom.
