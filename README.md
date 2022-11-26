@@ -7,6 +7,7 @@ Gettin’ to a Street Fight is a highly realistic fighting game where the player
 https://www.youtube.com/watch?v=XWgDCpn-eAg
 
 Installation 
+<br>
 Download the final project zip file that contains all the .java files, the images, and the other files. Please adjust the code that reads the images with the proper location on your computer in order to have all the images run properly on your computer. The images are located in the following classes:
 GamePanel.java
 GamePanel2.java
