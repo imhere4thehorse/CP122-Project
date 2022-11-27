@@ -74,3 +74,4 @@ PROJECT REQUIREMENTS
 <br>
 We were given 1.5 weeks to work on this project. The Computer Science 1 course was taught in 3.5 weeks.
 This game utilized Atom.
+© Copyright Kalie Chang
